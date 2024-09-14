@@ -12,6 +12,6 @@ A To-Do App using Django is a web application that allows users to manage tasks 
 - Database: SQLite (default)
 - Version Control: Git & GitHub
 
-#Prerequisites
+# Prerequisites
 - Python (version 3.8 or above)
 - Django (version 4.x or above)
